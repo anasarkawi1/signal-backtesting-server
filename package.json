@@ -1,0 +1,15 @@
+{
+  "name": "backtest",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main_backtest.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Anas Arkawi",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.1",
+    "uuid": "^8.3.2"
+  }
+}
